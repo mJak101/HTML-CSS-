@@ -1,0 +1,113 @@
+Codecademy HTML & CSS ANSWERS HTML Basics II / Introduction /1 
+
+<!DOCTYPE html>
+<html>
+	<head>
+	<title> My web </title>	
+	</head>
+	<body>
+	<p> My web </p>	
+	</body>
+</html>
+
+Codecademy HTML & CSS ANSWERS HTML Basics II / Indentation is your friend/2
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My web</title>
+	</head>
+	<body> My web
+	</body>
+</html>
+
+
+Codecademy HTML & CSS ANSWERS HTML Basics II / Ordered lists /3
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Lists</title>
+	</head>
+	<body>
+		<h1>List of my favorite things</h1>
+		<ol>
+			<li>Raindrops on roses</li>
+			<li>Whiskers on kittens</li>
+			<li>Bright copper kettles</li>
+			<li>Warm woolen mittens</li>
+		</ol>
+		<h2> List of things I find just OK</h2>
+		<ol>
+		<li> Codecademy </li>
+		<li> Google </li>
+		<li> My Country name is BANGLADESH </li>
+		</ol>
+		
+	</body>
+</html>
+
+Codecademy HTML & CSS ANSWERS HTML Basics II / Unordered lists/5
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Unordered Lists</title>
+	</head>
+	<body>	
+	<h1><p> 'Some random thoughts'</p></h1>
+	<p> Random List </p>
+	<ul>
+	  <li>random thing 1 </li>
+	  <li>random thing 2 </li>
+	  <li>random thing 3 </li>
+	  <li>random thing 4 </li>
+	  
+	</ul>	
+	</body>
+</html>
+
+Codecademy HTML & CSS ANSWERS HTML Basics II /Lists inside a list /6
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Nested lists</title>
+	</head>
+	<body>
+		<ol>
+			<li>Dad's interests
+				<ul>
+					<li>football</li>
+					<li>knitting</li>
+				</ul>
+			</li>
+			<li>Mom's interests
+				<ul>
+					<li>hating football</li>
+					<li>skydiving</li>
+				</ul>
+			</li>
+		</ol>
+		<ul>Favorite Boys</ul> <ul>Favorite Girls</ul>
+		<ol>
+		<li> Favorite Boys
+		<ul>
+		<li>Name 1</li>
+		<li>Name 2</li>
+		<li>Name3 </li>
+		</ul>
+		</li>
+		<li> Favorite Girls
+		<ul>
+		<li>Name 1</li>
+		<li>Name 2</li>
+		<li>Name 3</li>
+		</ul>
+		</li>
+		</ol>
+	</body>
+	
+	
+
+
