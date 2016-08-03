@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+	<title>Result</title>
+	</head>
+	<body>
+	   <h1>I'm maroon!</h1>
+	   <p>One em!</p>
+       <img src=" #" >
+	</body>
+</html>
+
+
+CSS
+
+selector {
+    property: value,bestValue, nextBestValue;
+}
+
+h1 {
+  font-family: Verdana,sans-serif, serif;  
+  color: #576D94;
+}
+
+p {
+    font-family:Garamond, serif; Verdana, sans-serif, 
+    color:#4A4943;
+    font-size:18px;
+}
+
+img {
+	height: 100px;
+	width: 300px;
+	box-shadow: rgba(0,0,0,0.2) 10px 10px;
+	border:1px solid #4682b4
+
+}
