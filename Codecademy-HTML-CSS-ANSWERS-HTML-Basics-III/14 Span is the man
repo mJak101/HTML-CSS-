@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Result</title>
+	</head>
+	<body>
+		<p>My favorite font is Impact!</p>
+		<p> My name is <span style="font-family:Impact;">Impact</span>!</p>
+	</body>
+</html>
