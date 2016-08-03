@@ -108,6 +108,161 @@ Codecademy HTML & CSS ANSWERS HTML Basics II /Lists inside a list /6
 		</ol>
 	</body>
 	
-	
+Codecademy HTML & CSS ANSWERS HTML Basics II / Making comments/7
+
+<!-- Make me into a comment -->
+
+<p>But leave me visible to the user!</p> <!-- This is an example of a comment! -->
+
+<!-- comment -->
+
+Codecademy HTML & CSS ANSWERS HTML Basics II /Font size /8
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>First font size change</title>		
+	</head>
+	<body>
+<p style="font-size:10px"> Some text for you to make tiny! </p>
+<p style="font-size:20px">Some text for you to make normal size!</p>
+<p style="font-size:40px"> Some text for you to make super big!</p>
+
+	</body>
+</html>
+
+Codecademy HTML & CSS ANSWERS HTML Basics II /Font color/9
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Changing the colors!</title>
+	</head>
+	<body>
+  <h1 style="font-size:16px; color:green">Big Heading</h1>
+			<p style="font-size:16px; color:violet">A giant bear and a little duck were friends.</p>
+			<p style="font-size:10px; color:red">But the bear got hungry and ate the duck.</p>
+	</body>
+</html>
+
+Codecademy HTML & CSS ANSWERS HTML Basics II /Font family/10
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Putting it all together</title>
+	</head>
+	<body>
+		<p style="font-size:20px; color:blue; font-family: Arial">A truly spectacular paragraph!</p>
+	</body>
+</html>
+
+Codecademy HTML & CSS ANSWERS HTML Basics II /Recap/11
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Putting it all together</title>
+	</head>
+	<body>
+		<p style="font-size:20px; color:blue; font-family: Arial">A truly spectacular paragraph!</p>
+	</body>
+</html>
+
+Codecademy HTML & CSS ANSWERS HTML Basics II /Background color/12
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Sexy background color!</title>
+	</head>
+	<body style="background-color:brown;">
+		<h3>Favorite Football Teams</h3>
+			<ol style="background-color:yellow;">
+			<ol>
+				<li>The Hawthorn Football Club</li>	
+				<li>San Franscisco 49ers</li>
+				<li>Barcelona FC</li>
+			</ol>
+		</p>
+	</body>
+</html>
+
+Codecademy HTML & CSS ANSWERS HTML Basics II /Aligning the text/13
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Sexy background color!</title>
+	</head>
+	<body>
+	<h3 style="text-align:center">
+     Favorite Football Teams</h3>
+     
+			<ol>
+				<li style="text-align:left">The Hawthorn Football Club</li>	
+				<li style="text-align:center">San Franscisco 49ers</li>
+				<li style="text-align:right">Barcelona FC</li>
+			</ol>			
+	</body>
+</html>
+
+Codecademy HTML & CSS ANSWERS HTML Basics II /Strong words!/14
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Viva La Revolution!</title>
+	</head>
+	<body>
+		<p>Do you hear the people <strong>sing</strong>?</p>
+		<p>No I don't. I'm <strong>too</strong> busy eating cake.</p>
+	</body>
+</html>
+
+Codecademy HTML & CSS ANSWERS HTML Basics II /Emphasize words!/15
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Some nice practice</title>
+	</head>
+	<body>
+		<p>Hey, don't say<em> that</em>!</p>
+		<p>I am <em>so</em> tired.</p>
+	</body>
+</html>
+
+Codecademy HTML & CSS ANSWERS HTML Basics II /Summary/16
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body style="background-color:red; text-align:center";>
+	<font size="5px"; face="Arial"; color="green">
+	Bangladesh District List </font>
+	<ol>My Country>
+	 <li> Bangladesh>
+	 <ul> District list </ul> </li>
+	 </ol>
+	 <p> Bangladesh <strong> is a </strong> developing <em> country</em>
+	 
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
