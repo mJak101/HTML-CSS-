@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+		<div style="background-color:#cc0000; height:100px; width:100px";>
+		
+		
+		</div>
+	</body>
+</html>
+
+CSS
+
+body {
+	background-color: #cc0000;
+	height: 100px;
+	
+}
+
+
+/*Add your CSS below!*/
+
