@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+	<title>Result</title>
+	</head>
+	<body>
+	   <h1>I'm maroon!</h1>
+	   <p>One em!</p>
+	</body>
+</html>
+
+
+CSS
+
+selector {
+    property: value;
+}
+
+h1 {
+  font-family: Verdana;
+  color: #576D94;
+}
+
+p {
+    color:#4A4943;
+    font-size:18px;
+}
