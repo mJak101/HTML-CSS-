@@ -10,3 +10,21 @@
 		<h3>I'm going to be in cursive!</h3>
 	</body>
 </html>
+
+CSS
+
+h1 {
+    font-family: serif;
+}
+
+h2 {
+    font-family: sans-serif;
+}
+
+h3 {
+    font-family: cursive;
+}
+
+
+/*Add your CSS below!*/
+
