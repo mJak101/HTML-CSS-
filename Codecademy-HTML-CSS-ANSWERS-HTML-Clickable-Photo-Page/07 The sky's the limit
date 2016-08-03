@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css" />
+		<title>My Photo Page</title>
+	</head>
+	<body>
+	<table>
+	<tbody>   
+	<tr> <td><a href="#"> <img src="URL"/>M </td></tr></a> 
+	<tr> <td><a href="#"> <img src="URL"/>M </td></tr></a> 
+	<tr> <td><a href="#"> <img src="URL"/>M </td></tr></a>
+	</tbody>
+	</table>
+	<table>
+	<tbody>   
+	<tr> <td><a href="#"> <img src="URL"/>M </td></tr></a> 
+	<tr> <td><a href="#"> <img src="URL"/>M </td></tr></a>
+	<tr> <td><a href="#"> <img src="URL"/>M </td></tr></a>
+	</tbody>
+	</table>
+	<table>
+	<tbody>   
+	<tr> <td><a href="#">  <img src="URL"/>M </td></tr></a>
+	<tr> <td><a href="#"> <img src="URL"/>M </td></tr></a>
+	<tr> <td><a href="#"> <img src="URL"/>M </td></tr></a>
+	</tbody>
+	</table>
+	</body>
+</html>
